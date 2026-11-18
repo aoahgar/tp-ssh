@@ -1,4 +1,4 @@
-# TP SSH — Groupe de deux
+# TP SSH — 
 
 Ce dossier accompagne le TP de mise en place de SSH : installation du serveur, connexion distante, authentification par clé et tunnels vers un serveur web et une base MariaDB.
 
